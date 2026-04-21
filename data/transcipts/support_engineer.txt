@@ -1,0 +1,29 @@
+Candidate: Vijay Singh
+Role: Support Engineer
+
+Interviewer: Hi Vijay, can you introduce yourself?
+Vijay: I’m Vijay Singh with 2 years of experience as a support engineer. I specialize in troubleshooting technical issues and assisting customers.
+
+Interviewer: What kind of issues do you handle?
+Vijay: Mostly application errors, login issues, and system performance problems.
+
+Interviewer: How do you troubleshoot issues?
+Vijay: I analyze logs, replicate issues, and identify root causes.
+
+Interviewer: What tools do you use?
+Vijay: Monitoring tools, log analyzers, and ticketing systems.
+
+Interviewer: Can you describe a challenging case?
+Vijay: A system outage caused by server overload. I identified the issue and escalated it to the DevOps team.
+
+Interviewer: How do you handle customer communication?
+Vijay: I ensure clear and polite communication while updating them on progress.
+
+Interviewer: Strength?
+Vijay: Patience and problem-solving.
+
+Interviewer: Weakness?
+Vijay: Sometimes I delay escalation trying to solve issues myself.
+
+Interviewer: Any questions?
+Vijay: What ticketing system is used here?

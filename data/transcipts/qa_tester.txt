@@ -1,0 +1,32 @@
+Candidate: Ramesh Kumar
+Role: QA Tester
+
+Interviewer: Hi Ramesh, can you introduce yourself?
+Ramesh: I have 2 years of experience in manual testing and basic automation.
+
+Interviewer: What types of testing do you know?
+Ramesh: Functional testing and regression testing.
+
+Interviewer: Can you explain your testing process?
+Ramesh: I write test cases, execute them, and report bugs.
+
+Interviewer: Have you worked on automation?
+Ramesh: I have basic knowledge of Selenium but not much hands-on experience.
+
+Interviewer: What tools do you use?
+Ramesh: Jira for bug tracking.
+
+Interviewer: Tell me about a challenge.
+Ramesh: Sometimes requirements are unclear, and I struggle to write proper test cases.
+
+Interviewer: How do you handle it?
+Ramesh: I ask the team for clarification.
+
+Interviewer: Strength?
+Ramesh: Attention to detail.
+
+Interviewer: Weakness?
+Ramesh: Limited automation experience and programming skills.
+
+Interviewer: Any questions?
+Ramesh: Do you provide training for automation tools?

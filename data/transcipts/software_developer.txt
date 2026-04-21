@@ -1,0 +1,32 @@
+Candidate: Rahul Sharma
+Role: Software Developer
+
+Interviewer: Hi Rahul, thanks for joining. Can you start by introducing yourself in detail?
+Rahul: Sure. I’m Rahul Sharma, a backend developer with around 2.5 years of experience. I’ve primarily worked with Python, Django, and REST APIs. I’ve built scalable backend systems and worked on optimizing database performance. I enjoy solving complex problems and improving system efficiency.
+
+Interviewer: That sounds good. Can you walk me through a project you're particularly proud of?
+Rahul: Yes, I worked on an e-commerce platform where I was responsible for designing APIs for user authentication, product catalog, and order processing. One key challenge was handling high user traffic during sales.
+
+Interviewer: How did you handle that high traffic?
+Rahul: Initially, we faced slow response times. I analyzed database queries and optimized them using indexing. We also introduced Redis caching for frequently accessed data, which significantly improved performance.
+
+Interviewer: Can you explain REST APIs in more detail?
+Rahul: REST APIs follow a stateless architecture where each request contains all necessary information. They use HTTP methods like GET, POST, PUT, DELETE, and are widely used for client-server communication.
+
+Interviewer: What about authentication and security?
+Rahul: I’ve implemented JWT-based authentication. Tokens are generated on login and validated on each request. I’ve also worked with role-based access control.
+
+Interviewer: Good. Have you worked with system design concepts?
+Rahul: I have a basic understanding of concepts like load balancing, caching, and microservices, but I’m still improving my knowledge in designing large-scale systems.
+
+Interviewer: Tell me about a difficult bug you faced.
+Rahul: Once, we had a race condition issue causing duplicate orders. I debugged logs and fixed it using proper transaction handling.
+
+Interviewer: That’s interesting. What are your strengths?
+Rahul: Strong debugging skills and backend development.
+
+Interviewer: Weakness?
+Rahul: I need to improve my system design skills.
+
+Interviewer: Great, any questions?
+Rahul: Yes, what kind of architecture does your backend follow?

@@ -1,0 +1,29 @@
+Candidate: Arjun Mehta
+Role: Backend Developer
+
+Interviewer: Tell me about your experience.
+Arjun: I have 3 years of experience in backend development using Node.js and Express.
+
+Interviewer: What projects have you worked on?
+Arjun: I developed APIs for a fintech application handling transactions and user data.
+
+Interviewer: How do you handle scalability?
+Arjun: I use load balancing and horizontal scaling.
+
+Interviewer: Authentication?
+Arjun: JWT-based authentication.
+
+Interviewer: Challenge?
+Arjun: Handling concurrent requests.
+
+Interviewer: Solution?
+Arjun: Optimized database queries and used caching.
+
+Interviewer: Strength?
+Arjun: API design.
+
+Interviewer: Weakness?
+Arjun: DevOps knowledge.
+
+Interviewer: Any questions?
+Arjun: What cloud services do you use?

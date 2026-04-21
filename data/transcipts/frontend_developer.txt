@@ -1,0 +1,32 @@
+Candidate: Sneha Kapoor
+Role: Frontend Developer
+
+Interviewer: Hi Sneha, can you introduce yourself?
+Sneha: Sure. I’m a frontend developer with 2.5 years of experience working with React, JavaScript, HTML, and CSS. I specialize in building responsive and high-performance user interfaces.
+
+Interviewer: Can you describe a project you worked on?
+Sneha: I built a real-time analytics dashboard where I implemented reusable components, optimized rendering, and improved performance using React hooks and memoization.
+
+Interviewer: How do you optimize performance in React applications?
+Sneha: I use techniques like lazy loading, code splitting, React.memo, and useMemo to reduce unnecessary re-renders.
+
+Interviewer: Can you explain React hooks?
+Sneha: Yes, hooks like useState and useEffect allow us to manage state and lifecycle in functional components. I’ve also used custom hooks for code reuse.
+
+Interviewer: How do you ensure responsive design?
+Sneha: I use CSS flexbox, grid, and media queries to ensure compatibility across devices.
+
+Interviewer: Have you worked with APIs?
+Sneha: Yes, I integrate REST APIs using Axios and handle loading states and error handling properly.
+
+Interviewer: Tell me about a challenge you faced.
+Sneha: Managing large state in a dashboard. I solved it using proper state management and component separation.
+
+Interviewer: What are your strengths?
+Sneha: UI design, performance optimization, and clean code practices.
+
+Interviewer: Weakness?
+Sneha: I’m currently improving backend integration knowledge.
+
+Interviewer: Any questions?
+Sneha: What frontend architecture patterns do you follow?
