@@ -1,0 +1,14 @@
+Candidate: Rahul
+Role: Software Developer
+
+Interviewer: Tell me about yourself.
+Rahul: I have 2 years of experience in backend development using Django.
+
+Interviewer: Explain APIs.
+Rahul: APIs allow communication between systems using HTTP methods.
+
+Interviewer: What is your strength?
+Rahul: Problem solving and backend logic.
+
+Interviewer: Weakness?
+Rahul: Need improvement in system design.

@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 
+<<<<<<< HEAD
 
 # ===== INPUT SCHEMA =====
 class AnalyzeRequest(BaseModel):
@@ -16,3 +17,9 @@ class AnalyzeResponse(BaseModel):
     Strengths: str
     Weaknesses: str
     Recommendation: str
+=======
+class AnalyzeRequest(BaseModel):
+    candidate: str
+    role: str
+    transcript: str
+>>>>>>> 96cc4be99718bec97f852d9e12205c16d8e9959e
