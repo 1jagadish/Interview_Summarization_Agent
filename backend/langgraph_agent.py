@@ -3,9 +3,8 @@ from typing import TypedDict
 from google import genai
 from config.settings import GEMINI_API_KEY
 
-# ===== CONFIGURE NEW GEMINI CLIENT =====
+# ===== INIT CLIENT =====
 client = genai.Client(api_key=GEMINI_API_KEY)
-
 
 # ===== STATE =====
 class State(TypedDict):
@@ -20,10 +19,12 @@ class State(TypedDict):
 def call_llm(prompt):
     try:
         response = client.models.generate_content(
-            model="gemini-1.5-flash",   # ✅ working model in new SDK
+            model="models/gemini-1.5-flash",   # ✅ CHANGE HERE
             contents=prompt
         )
-        return response.text.strip()
+
+        return response.candidates[0].content.parts[0].text.strip()
+
     except Exception as e:
         return f"Error: {str(e)}"
 
