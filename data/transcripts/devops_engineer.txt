@@ -1,0 +1,44 @@
+Candidate: Deepak Yadav
+
+Role: DevOps Engineer
+ 
+Interviewer: Hi Deepak, tell me about yourself.
+
+Deepak: I’m a DevOps engineer with 3 years of experience working with CI/CD pipelines, Docker, and Kubernetes. I focus on automation and deployment efficiency.
+ 
+Interviewer: What is CI/CD?
+
+Deepak: CI/CD stands for Continuous Integration and Continuous Deployment. It automates code integration and deployment processes.
+ 
+Interviewer: What tools have you used?
+
+Deepak: I have worked with Jenkins, Docker, Kubernetes, and Git.
+ 
+Interviewer: Can you describe your deployment process?
+
+Deepak: Code is pushed to Git, Jenkins triggers build pipelines, Docker containers are created, and Kubernetes handles deployment.
+ 
+Interviewer: What challenges have you faced?
+
+Deepak: Deployment failures due to configuration issues.
+ 
+Interviewer: How did you handle that?
+
+Deepak: I implemented rollback strategies and added monitoring alerts.
+ 
+Interviewer: Have you worked with cloud platforms?
+
+Deepak: Yes, I have experience with AWS for hosting applications.
+ 
+Interviewer: What are your strengths?
+
+Deepak: Automation and troubleshooting.
+ 
+Interviewer: Weakness?
+
+Deepak: Limited frontend understanding.
+ 
+Interviewer: Any questions?
+
+Deepak: What cloud infrastructure do you primarily use?
+ 

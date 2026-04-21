@@ -1,0 +1,40 @@
+Candidate: Priya Verma
+
+Role: Data Analyst
+ 
+Interviewer: Hi Priya, can you introduce yourself?
+
+Priya: Sure. I’m Priya Verma with 3 years of experience in data analysis. I work with SQL, Excel, and Power BI to extract insights and help businesses make decisions.
+ 
+Interviewer: Can you describe a project you worked on?
+
+Priya: I built a sales dashboard that tracked revenue trends, customer segmentation, and product performance. It helped the company improve decision-making.
+ 
+Interviewer: How did you clean your data?
+
+Priya: I removed duplicates, handled missing values, and standardized formats. I also validated data consistency across sources.
+ 
+Interviewer: What challenges did you face?
+
+Priya: Data inconsistency was a major challenge because data was coming from multiple sources.
+ 
+Interviewer: How did you solve it?
+
+Priya: I created validation rules and standardized the data pipeline.
+ 
+Interviewer: Explain SQL joins.
+
+Priya: Inner join returns matching records, left join returns all records from the left table.
+ 
+Interviewer: Strengths?
+
+Priya: Analytical thinking and visualization.
+ 
+Interviewer: Weakness?
+
+Priya: I’m currently improving my machine learning knowledge.
+ 
+Interviewer: Any questions?
+
+Priya: What tools are used here for large-scale analytics?
+ 
