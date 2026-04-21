@@ -1,0 +1,35 @@
+Candidate: Kavya Nair
+Role: ML Engineer
+
+Interviewer: Hi Kavya, can you introduce yourself?
+Kavya: I have worked on machine learning projects during my studies and have basic knowledge of ML algorithms.
+
+Interviewer: Can you explain the ML pipeline?
+Kavya: It includes data collection, preprocessing, training, and evaluation.
+
+Interviewer: What algorithms have you used?
+Kavya: Mostly regression and classification models.
+
+Interviewer: Have you worked on real-world projects?
+Kavya: Mostly academic projects and small datasets.
+
+Interviewer: What is overfitting?
+Kavya: When a model performs well on training data but poorly on new data.
+
+Interviewer: How do you handle it?
+Kavya: Using cross-validation and regularization.
+
+Interviewer: Have you deployed any models?
+Kavya: Not yet, I’m still learning deployment.
+
+Interviewer: What challenges have you faced?
+Kavya: Handling large datasets and improving model accuracy.
+
+Interviewer: Strength?
+Kavya: Strong theoretical understanding.
+
+Interviewer: Weakness?
+Kavya: Limited practical and production experience.
+
+Interviewer: Any questions?
+Kavya: What tools are used for deployment?

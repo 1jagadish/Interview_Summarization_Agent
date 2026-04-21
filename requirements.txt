@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+openpyxl
+python-dotenv
+langgraph
+google-generativeai
+requests

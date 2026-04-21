@@ -1,0 +1,32 @@
+Candidate: Meena Iyer
+Role: Business Analyst
+
+Interviewer: Hi Meena, tell me about yourself.
+Meena: I’m a business analyst with 3 years of experience in requirement gathering and stakeholder management.
+
+Interviewer: What does a business analyst do?
+Meena: We act as a bridge between stakeholders and technical teams, ensuring requirements are clearly understood.
+
+Interviewer: How do you gather requirements?
+Meena: Through meetings, interviews, and documentation.
+
+Interviewer: What tools do you use?
+Meena: Excel, Jira, and sometimes visualization tools.
+
+Interviewer: Can you describe a project?
+Meena: I worked on a CRM system where I gathered requirements and coordinated with developers.
+
+Interviewer: Challenges?
+Meena: Miscommunication between stakeholders and developers.
+
+Interviewer: Solution?
+Meena: I improved documentation and communication channels.
+
+Interviewer: Strength?
+Meena: Communication and organization.
+
+Interviewer: Weakness?
+Meena: Limited technical knowledge.
+
+Interviewer: Any questions?
+Meena: How are project priorities decided?
